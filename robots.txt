@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /scanner.html
+Disallow: /payment.html
+
+Sitemap: https://sparq.energy/sitemap.xml
